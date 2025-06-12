@@ -48,3 +48,5 @@ This project has challenged me as a programmer and as a team member. I have lear
 Things I would like to be improved are:
 - Graphical Design: due to the fact that our team was comprised of developers only, we were forced to use free assets.
 - Better AI: The AI of enemies in this game was very simple, focusing on destroying the player or a building if the player wasn't detected nearby. Tactical movements and decisions could be a massive improvement.
+
+### This project is shared for demonstration and portfolio purposes only. Ownership and reuse may be subject to university IP policies.
